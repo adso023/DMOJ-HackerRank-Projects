@@ -17,4 +17,5 @@ Completed DMOJ and HackerRank Projects
     <li>English French</li>
     <li>Funny Strings</li>
     <li>Mars Exploration</li>
+    <li>Left Rotation</li>
   </ul>
