@@ -18,4 +18,5 @@ Completed DMOJ and HackerRank Projects
     <li>Funny Strings</li>
     <li>Mars Exploration</li>
     <li>Left Rotation</li>
+    <li>Maximum Xor - Not Optimal Solution (doesn't work for extremely large test cases - still working on it)</li>
   </ul>
