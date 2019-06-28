@@ -1,2 +1,5 @@
 # DMOJ-HackerRank-Projects
-DMOJ and HackerRank Projects
+
+Completed DMOJ and HackerRank Projects
+
+<b>DMOJ Projects</b>
